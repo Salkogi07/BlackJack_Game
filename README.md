@@ -10,6 +10,9 @@ A simple blackjack game implemented in Python using the Pygame library for the g
 - **Dealer AI**: Implements a simple dealer AI that hits until reaching a value of 17 or higher.
 - **Gameplay Options**: Includes options for hitting, standing, and replaying.
 
+## Technologies Used
+- [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+
 ## Requirements
 - Python 3.x
 - Pygame library (`pip install pygame`)
