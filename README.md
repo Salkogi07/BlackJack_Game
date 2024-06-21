@@ -37,6 +37,12 @@ Alternatively, you can use the executable file `blackjack_game_start.exe` locate
 - `images/`: Directory containing game images (cards, buttons, backgrounds).
 - `README.md`: Documentation file (this file).
 
+## Installation
+Clone the repository:
+```bash
+git clone https://github.com/your-username/memory-game.git
+```
+
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please fork the repository and create a pull request.
 
