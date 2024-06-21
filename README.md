@@ -40,7 +40,7 @@ Alternatively, you can use the executable file `blackjack_game_start.exe` locate
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/Salkogi07/BlackJack_Game.git
 ```
 
 ## Contributing
