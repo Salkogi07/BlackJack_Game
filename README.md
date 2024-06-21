@@ -12,6 +12,7 @@ A simple blackjack game implemented in Python using the Pygame library for the g
 
 ## Technologies Used
 - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+- [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## Requirements
 - Python 3.x
