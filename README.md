@@ -16,8 +16,10 @@ A simple blackjack game implemented in Python using the Pygame library for the g
 
 ## How to Play
 ### Starting the Game:
-1. Run `python blackjack_game.py` to launch the game.
-2. Choose game difficulty (Easy or Hard) and place your bets.
+1. Run `python blackjack_source/blackjack_game.py` to launch the game.
+2. Choose game difficulty (Easy or **Hard (Currently Under Development)**) and place your bets.
+
+Alternatively, you can use the executable file `blackjack_game_start.exe` located in `blackjack_start` directory to start the game.
 
 ### Gameplay:
 - **Hit**: Request another card from the dealer.
@@ -29,7 +31,9 @@ A simple blackjack game implemented in Python using the Pygame library for the g
 - Option to replay or return to the main menu.
 
 ## File Structure
-- `blackjack_game.py`: Main game file.
+- `blackjack_source/`: Directory containing the main game file and source code.
+  - `blackjack_game.py`: Main game file.
+- `blackjack_start/`: Directory containing executable (`blackjack_game_start.exe`) to start the game.
 - `images/`: Directory containing game images (cards, buttons, backgrounds).
 - `README.md`: Documentation file (this file).
 
