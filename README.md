@@ -41,7 +41,7 @@ Alternatively, you can use the executable file `blackjack_game_start.exe` locate
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please fork the repository and create a pull request.
 
 ## Credits
-- Developed by [Your Name]
+- Developed by [SALKOGI]
 - Pygame library: [Pygame](https://www.pygame.org/)
 
 ## License
