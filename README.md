@@ -1,6 +1,6 @@
 # Blackjack Game in Python
 
-![Blackjack Screenshot](images/screenshot.png)
+![Blackjack Screenshot](screenshot.png)
 
 A simple blackjack game implemented in Python using the Pygame library for the graphical interface.
 
